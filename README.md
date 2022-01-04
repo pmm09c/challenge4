@@ -18,7 +18,7 @@ cd {desired_run_path}
 pip install jupyter-lab
 pip install pandas
 pip install matplotlib
-git clone https://github.com/pmm09c/challenge3.git
+git clone https://github.com/pmm09c/challenge4.git
 ```
 ---
 
